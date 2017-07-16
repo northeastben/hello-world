@@ -1,2 +1,6 @@
 # hello-world
-Hello World
+To test things out
+
+Reading code is funner than reading a readme...
+just getting started.
+
