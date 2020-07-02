@@ -1,7 +1,7 @@
 # hello-world
-To test things out
 
-Reading code is funner than reading a readme...
-just getting started.
+Hello there!
+Just getting started and testing things out.
 
+Reading and writing code is funner than reading and writing a readme...
 Stay tuned.
